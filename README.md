@@ -9,7 +9,7 @@
 ```
 cd
 
-rm -rf HOP-BACK
+rm -rf FILE-RNDM
 
 git clone --depth=1 https://github.com/SHADIN-143/FILE-RNDM
 
